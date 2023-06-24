@@ -1,3 +1,4 @@
+#https://zerojudge.tw/ShowProblem?problemid=a149
 n = int(input())
 for i in range(n):
     number = input()

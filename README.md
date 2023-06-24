@@ -1,2 +1,2 @@
-# Python
+# Python PRACTICE
 JUST FOR PRACTICE
